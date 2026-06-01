@@ -1,5 +1,7 @@
 # Anything Autostereogram
 
+`日本語↓`
+
 **Recommended environment:** [Google Colab](https://colab.research.google.com/github/Izucchi-channel/anything-autostereogram/blob/main/autostereogram.ipynb)
 
 If you run this project on Google Colab, no additional dependency installation is required.
